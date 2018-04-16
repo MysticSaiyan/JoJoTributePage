@@ -1,0 +1,33 @@
+.bullets{
+    width: 85%;
+    margin:0 auto;
+    text-align:left;
+}
+
+.table {
+   margin: auto;
+   width: 50% !important; 
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.heading{
+	padding: 20px;
+}
+
+.info {
+	padding: 30px;
+}
+
+.parts{
+	padding: 30px;
+}
+
+body {
+    background: url(back1.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
